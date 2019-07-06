@@ -1,5 +1,5 @@
 // (c) Castyte 2019
-// Licence available in LICENCE file
+// Licence available in LICENSE file
 
 #import "Tweak.h"
 #include <spawn.h>
