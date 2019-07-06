@@ -1,0 +1,10 @@
+Package: com.castyte.spotpower
+Name: Spotpower
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Respring, reboot, uicache and more from Spotlight search.
+Maintainer: Castyte
+Author: Castyte
+Section: Tweaks
+Version: 1.0.0
+Installed-Size: 136
