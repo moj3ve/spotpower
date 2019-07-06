@@ -1,3 +1,6 @@
+// (c) Castyte 2019
+// Licence available in LICENCE file
+
 #import "Tweak.h"
 #include <spawn.h>
 #include <signal.h>
